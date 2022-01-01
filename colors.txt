@@ -1,0 +1,5 @@
+background:#0a0c21;
+
+buttoncolor:#1d2033
+
+bottombuttoncolor:#eb1555
